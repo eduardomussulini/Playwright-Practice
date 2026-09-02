@@ -1,5 +1,3 @@
-# playwright-mark
-
 **Autor / Author:** Eduardo Mussulini
 
 🚧 **Projeto em andamento** · 🚧 **Work in progress**
