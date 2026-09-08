@@ -2,7 +2,7 @@
 echo Encerrando a API e o Servidor Web...
 
 :: Encerra todas as janelas do Node.js e processos associados
-taskkill /F /IM node.exe /T
+taskkill /F /IM node.exe /T >nul 2>&1
 
 echo Todos os servicos foram desligados com sucesso!
 pause
